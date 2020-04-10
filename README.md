@@ -1,4 +1,13 @@
 # E10a-Blender
+
+I already have some experience using blender (although my experience is with
+Blender 2.7x, not 2.8x with the revised UI), so I wanted to so something a
+little more creative than just following the tutorial.
+I ended up creating a 3D model of the character I made for my 2D platformer
+project, I named the resulting file 'gelatina.glb'.
+
+------
+
 This exercise will give you an opportunity to get some experience using Blender (in advance of the requirements for Project 09).
 
 As usual, Fork and Clone this repository.
